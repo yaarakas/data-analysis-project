@@ -1,2 +1,14 @@
-# data-analysis-project
-Processed and analyzed structured datasets using R, tidyverse, and ggplot2. Built visualizations, performed feature analysis, and applied data preprocessing techniques to support data-driven insights.
+# Data Analysis Project
+
+This project includes exploratory data analysis and visualization using R.
+
+## Technologies
+- R
+- dplyr
+- ggplot2
+
+## Project Goals
+- Data cleaning
+- Handling missing values
+- Data visualization
+- Extracting insights from datasets
